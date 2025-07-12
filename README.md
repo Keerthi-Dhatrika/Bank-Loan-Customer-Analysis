@@ -22,7 +22,7 @@ This project analyzes bank loan records to uncover key patterns related to loan 
 - Jupyter Notebook / Google Colab
 
 ## 📸 Sample Visuals
-_Add your charts here_
+
 
 ## 🚀 How to Run
 ```bash
